@@ -22,6 +22,6 @@
 
 <div align="center"><img src="https://github.com/tonmoy7722/Medicine-Recommendation/blob/master/med/wrk.png"></div>
 
-<h1 align="center"> Diets the disease </h1>
+<h1 align="center"> Diets for the disease </h1>
 
 <div align="center"><img src="https://github.com/tonmoy7722/Medicine-Recommendation/blob/master/med/die.png"></div>
